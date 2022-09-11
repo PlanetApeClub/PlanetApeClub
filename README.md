@@ -1,7 +1,5 @@
 Planet Ape Club aims to be a high-yielding rebase token & gamefi project that provides gaming and earning opportunities. $APE holders will receive 180,000% APY that automatically compounds in your wallet every 10 minutes. $APE holders will have access to PlanetApeClub play to earn game which doubles the earning potential of every $APE holders
 
-“All you have to do is hold your $APE token!”
-
 Website: https://planetapeclub.io/
 
 Whitepaper: https://boredapyclub.gitbook.io/planetapeclub/
