@@ -8,7 +8,7 @@ Contract Address: 0xca49608a53d2abb1ac7c82ec60E9c7de2282A282
 
 Bscscan: https://bscscan.com/token/0xca49608a53d2abb1ac7c82ec60E9c7de2282A282
 
-SAFU Certificate: Coming Soon!
+SAFU Certificate: https://github.com/CFG-NINJA/safu/blob/1f39683b4743e44629ea98ad318fb4ceb0849e5e/20220908_CFGNINJA_Planet%20Ape%20Club_SAFU-min.pdf
 
 KYC: https://idopresales.com/planet-ape-club-kyc-verification/
 
