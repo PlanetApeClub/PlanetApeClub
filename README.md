@@ -16,5 +16,5 @@ KYC: https://idopresales.com/planet-ape-club-kyc-verification/
 
 Smart Contract Audit: https://github.com/CFG-NINJA/audits/blob/e78f444267d6deaa4263f7bbcd540d534f230f7d/20220821_CFGNINJA_Planet%20Ape%20Club_Audit.pdf
 
-NFT Contract Audit: https://github.com/CFG-NINJA/audits/blob/3b99dd42a0dcbcd8e91a420ed0097b4d6c3bfdf5/20220910_CFGNINJA_ApeWars_Audit.pdf
+NFT Contract Audit:https://github.com/CFG-NINJA/audits/blob/4684548970b97c3e5c22c03843ee3822886df892/20220910_CFGNINJA_ApeWars_Audit.pdf
 
