@@ -10,11 +10,13 @@ Contract Address: 0xca49608a53d2abb1ac7c82ec60E9c7de2282A282
 
 Bscscan: https://bscscan.com/token/0xca49608a53d2abb1ac7c82ec60E9c7de2282A282
 
-SAFU Certificate: https://github.com/CFG-NINJA/safu/blob/1f39683b4743e44629ea98ad318fb4ceb0849e5e/20220908_CFGNINJA_Planet%20Ape%20Club_SAFU-min.pdf
+SAFU Certificate: https://github.com/CFG-NINJA/audits/blob/e78f444267d6deaa4263f7bbcd540d534f230f7d/20220821_CFGNINJA_Planet%20Ape%20Club_Audit.pdf
 
 KYC: https://idopresales.com/planet-ape-club-kyc-verification/
 
-Smart Contract Audit: https://github.com/CFG-NINJA/audits/blob/e78f444267d6deaa4263f7bbcd540d534f230f7d/20220821_CFGNINJA_Planet%20Ape%20Club_Audit.pdf
+Smart Contract Audit 1: https://irp.cdn-website.com/1b45ecb9/files/uploaded/PlanetApeClub_AuditReport_InterFi.pdf
+
+Smart Contract Audit 2: https://github.com/CFG-NINJA/audits/blob/e78f444267d6deaa4263f7bbcd540d534f230f7d/20220821_CFGNINJA_Planet%20Ape%20Club_Audit.pdf
 
 NFT Contract Audit:https://github.com/CFG-NINJA/audits/blob/4684548970b97c3e5c22c03843ee3822886df892/20220910_CFGNINJA_ApeWars_Audit.pdf
 
