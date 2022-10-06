@@ -6,9 +6,9 @@ Whitepaper: https://boredapyclub.gitbook.io/planetapeclub/
 
 Twitter: https://twitter.com/PlanetApeClub
 
-Contract Address: 0xca49608a53d2abb1ac7c82ec60E9c7de2282A282
+Contract Address: 0x360857806FA520A5fFB74a3CA6E04253e48e7d16
 
-Bscscan: https://bscscan.com/token/0xca49608a53d2abb1ac7c82ec60E9c7de2282A282
+Bscscan: https://bscscan.com/address/0x360857806fa520a5ffb74a3ca6e04253e48e7d16#code
 
 SAFU Certificate: https://github.com/CFG-NINJA/audits/blob/e78f444267d6deaa4263f7bbcd540d534f230f7d/20220821_CFGNINJA_Planet%20Ape%20Club_Audit.pdf
 
